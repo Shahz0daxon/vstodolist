@@ -1,0 +1,140 @@
+.navbar-menu-let-text {
+    color: rgb(35, 34, 41);
+    font-family: Goldman;
+    font-size: 32px;
+    font-weight: 400;
+    line-height: 180%;
+    letter-spacing: 0%;
+    text-align: left;
+}
+*{
+    padding: 0;
+    margin: 0 auto;
+}
+.navbar-menu-left {
+    /* Aeezah. */
+    position: absolute;
+    width: 116px;
+    height: 58px;
+    left: 122px;
+    right: 939px;
+    top: 32px;
+    bottom: -32px;
+}
+
+.nb-betwen-menu {
+    /* Group 196 */
+    position: absolute;
+    width: 539px;
+    height: 28px;
+    left: 459.5px;
+    right: 178.5px;
+    top: 48px;
+    bottom: -18px;
+    display: flex;
+    gap: 20px;
+}
+
+.nb-betwen-item {
+    list-style: none;
+    color: rgb(0, 0, 0);
+    font-family: Gilroy;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: -1px;
+    /* Group 196 */
+    letter-spacing: 1.6%;
+    text-align: center;
+}
+
+.navbar-menu-right {
+    /* margin-top: 60px;
+    margin-left: 1100px; */
+    /* Group 199 */
+    position: absolute;
+    width: 123px;
+    height: 40px;
+    left: 1176px;
+    right: -122px;
+    top: 41px;
+    bottom: -23px;
+}
+
+.instagram-content {
+    /* Group 208 */
+    position: absolute;
+    width: 285px;
+    height: 29px;
+    left: 1014px;
+    top: 175px;
+}
+
+.vektor-chizigi {
+    /* Vector 8 */
+    position: absolute;
+    width: 1323px;
+    height: 0;
+    left: 121.5px;
+    top: 121.5px;
+}
+
+.fabric {
+   
+    position: absolute;
+    /* width: 643px;
+    height: 339px; */
+    left: 120px;
+    right: 677px;
+    top: 245px;
+    bottom: 583px;
+}
+
+.my-project-photo-item-1 {
+    background-image: url(./img/Vector\ 7.png);
+    background-repeat: no-repeat;
+    /* Vector 7 */
+    position: absolute;
+    width: 500px;
+    height: 300px;
+    left: 720px;
+    top: 327.24px;
+    width: 600px;
+    height: 400px;
+
+}
+
+.img-person {
+    /* My project (11) 1 */
+    position: absolute;
+    width: 600px;
+    height: 400px;
+    left: 748px;
+    right: 125.1px;
+    top: 216px;
+    bottom: 459px;
+}
+
+.img {
+    margin-top: -100px;
+    margin-left: 60px;
+}
+.watch-now{
+    margin-top: 400px;
+    margin-left: 120px;
+}  
+.vektor-17{
+    margin-top: 140px;
+    
+}
+.two-boy{
+    margin-left: 110px;
+    margin-top: 100px;
+}
+.fashion{
+    margin-top: -300px;
+    margin-left: 1000px;
+}
+.scrol{
+    margin-left: 1050px;
+}
+    
